@@ -7,4 +7,4 @@
 
 
 ```bash 
-curl -s https://raw.githubusercontent.com/SSLminerProxy/SSLminerProxy/main/clean.sh | bash
+curl -s https://raw.githubusercontent.com/SSLminerProxy/HIVEOS-clean/main/clean.sh | bash
