@@ -8,3 +8,5 @@
 
 ```bash 
 curl -s https://raw.githubusercontent.com/SSLminerProxy/HIVEOS-clean/main/clean.sh | bash
+国内机器使用
+curl -s https://cdn.jsdelivr.net/gh/SSLminerProxy/HIVEOS-clean/main/clean.sh | bash
